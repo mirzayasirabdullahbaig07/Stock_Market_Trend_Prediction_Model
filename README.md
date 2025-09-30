@@ -7,6 +7,9 @@ An **AI-powered web application** built with **Streamlit** that predicts **futur
 ## 🚀 Demo
 🔗 [Live App on Streamlit](https://stockmarketprediction07.streamlit.app/)  
 
+## 🚀 Video Demo
+[https://github.com/user-attachments/assets/a4ee292f-34d8-4e39-b24c-c9015d468aed](https://github.com/user-attachments/assets/a4ee292f-34d8-4e39-b24c-c9015d468aed)
+
 ---
 
 ## 📌 Features
